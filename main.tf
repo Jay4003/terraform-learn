@@ -1,7 +1,5 @@
 provider "aws" {
 #    region = "us-east-2"
-#    access_key = "AKIAZH4QJZJR6JUNEUV6"
-#    secret_key = "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"
 }
 
 variable avail_zone {}
